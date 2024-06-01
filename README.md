@@ -5,5 +5,4 @@ so lange wie möglich zu überleben und dabei eine hohe Punktzahl zu erreichen.
 Das Spiel endet, wenn der Spieler mit einem Hindernis kollidiert.
 Bei einem Spielgewinn erreicht der Spieler die obere Bildschirmkante.
 
-[Dodger.png
-](https://github.com/Goku80/Dodger-Game/issues/1#issue-2328762575)
+![dodger](https://github.com/Goku80/Dodger-Game/assets/100942501/bd7e2201-6b9a-4249-9467-2fa28a6521ec)
