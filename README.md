@@ -6,4 +6,4 @@ Das Spiel endet, wenn der Spieler mit einem Hindernis kollidiert.
 Bei einem Spielgewinn erreicht der Spieler die obere Bildschirmkante.
 
 ![Screenshot]
-(https://github.com/Goku80/Dodger-Game/blob/main/Dodger.png)
+Dodger.png
