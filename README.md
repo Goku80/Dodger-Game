@@ -4,3 +4,5 @@ Der Spieler bewegt sich durch Tastendruck nach links, rechts, oben und unten. Zi
 so lange wie möglich zu überleben und dabei eine hohe Punktzahl zu erreichen. 
 Das Spiel endet, wenn der Spieler mit einem Hindernis kollidiert.
 Bei einem Spielgewinn erreicht der Spieler die obere Bildschirmkante.
+
+![Screenshot]
